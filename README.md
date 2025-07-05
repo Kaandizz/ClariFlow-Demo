@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/clariflow-banner.png" alt="ClariFlow Banner" />
+</p>
+
 # 🤖 ClariFlow – AI-Powered Document & Business Assistant
 
 ClariFlow is not just a chatbot — it's an evolving **AI workspace assistant** that helps users interact with documents, spreadsheets, leads, tasks, and meetings using natural language. Built using **Cursor AI**, **LangChain**, **OpenAI**, and a full-stack architecture, ClariFlow is your command center for data-driven decision-making and productivity.
