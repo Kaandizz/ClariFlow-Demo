@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/clariflow-banner.png" alt="ClariFlow Banner" />
+  <img src="clariflow-banner.png" alt="ClariFlow Banner" />
 </p>
+
 
 # 🤖 ClariFlow – AI-Powered Document & Business Assistant
 
